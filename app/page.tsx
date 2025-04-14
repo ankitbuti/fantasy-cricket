@@ -163,7 +163,7 @@ export default function Home() {
               className="flex items-center space-x-2"
             >
               <Trophy className="h-8 w-8 text-yellow-400" />
-              <span className="text-2xl font-bold text-white">Lovable.AI</span>
+              <span className="text-2xl font-bold text-white">And!Cricket</span>
             </motion.div>
             <div className="flex items-center space-x-4">
               <Button variant="ghost" className="text-white">

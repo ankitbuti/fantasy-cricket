@@ -7,8 +7,8 @@ import { Toaster } from '@/components/ui/toaster';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Lovable.AI - Cricket Fantasy Gaming',
-  description: 'AI-Powered Cricket Fantasy & INR Gaming Platform',
+  title: 'And!Cricket - Fantasy Gaming',
+  description: 'Cricket Fantasy & Gaming Platform',
 };
 
 export default function RootLayout({
